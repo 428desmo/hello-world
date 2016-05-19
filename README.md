@@ -2,4 +2,8 @@
 
 Trying branching from master.
 
-Next, editing from another works space.
+Next, editing from another workspace.
+
+Branching
+
+Editing branch in another workspace
